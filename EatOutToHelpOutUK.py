@@ -29,12 +29,6 @@ for line in r.splitlines():
     if 'govuk-results-address govuk-body' in line:
         x = line.split('>')[1]
         x = x.split('<')[0]
-        '''
-        for lines in x:
-            x = str(x)[1:-1]
-            #x = x.replace(" ", "+")
-        print(x, end="\n")
-        '''
         x = html.unescape(x)
         print(y, ',', x, end="\n")
         f.write(f'{y} \ {x}\n')
