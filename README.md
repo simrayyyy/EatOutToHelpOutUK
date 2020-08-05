@@ -9,9 +9,8 @@ My friend Jonathan (https://github.com/pbbpwns) and I have been working on this 
 
 ## How can this project help you?
 By following the step-by-step instructions (you will need a python processing platform), this can help you to:
-1) Save information from the website after putting in your post code in a .txt format
-2) Import the .txt file to Microsoft Excel (saving it as a xlsx. or csv. format, both works fine) 
-3) Create a Google Map layer and importing it so you can visualize the eateries involved!
+1) Save information from the website after putting in your post code in a .csv format
+2) Create a Google Map layer and importing it so you can visualize the eateries involved!
 
 This is pretty much both our first programming project and we hope that during this short duration, this will serve to be useful and convenient for people who want to visualize where the participating restaurants near them are located at. We are very excited to be sharing this with the wider community it is without a doubt that there is always a room for improvement in the code itself and what we have might not be efficient... but it works! As beginners, we are happy that it works to serve a purpose, although we would like to improve on it further and welcome any additional improvements.
 
