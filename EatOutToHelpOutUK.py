@@ -17,7 +17,7 @@ f.write("Name, Address\n")
 
 # The list of registered restaurants within 5 miles of the specified postcode will be obtained from the government website.
 postcode = postcode.split(' ')
-url = 'https://www.tax.service.gov.uk/eat-out-to-help-out/find-a-restaurant/results?postcode=' + \
+url = 'https://www.tax.service.gov.uk/eat-out-to-help-out/find-a-restaurant/results?lookup=' + \
     postcode[0] + '+' + postcode[1]
 
 r = requests.get(url)
