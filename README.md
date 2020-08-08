@@ -22,3 +22,6 @@ In the past day (started on 3 Aug), we have only managed to import these informa
 Simray
 5 Aug 2020
 
+v1.1 5 Aug 2020 1932 GMT+1
+v1.2 5 Aug 2020 0426 GMT+1
+v1.3 8 Aug 2020 1629 GMT+1
