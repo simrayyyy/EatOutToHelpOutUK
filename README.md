@@ -1,4 +1,4 @@
-The Eat Out To Help Out Scheme has now ended (31 Aug 2020)
+## The Eat Out To Help Out Scheme has now ended (31 Aug 2020) ##
 
 # EatOutToHelpOutUK
 This repo will help people in the UK visualize the Food and Beverage outlets near them participating in the scheme!
