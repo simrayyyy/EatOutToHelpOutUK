@@ -1,4 +1,4 @@
-### (Added 6 Aug 2020 0822 GMT+1) Currently looking to collaborate to bring this project further before the start of next Monday's scheme, implementing it on a host server and a website so that anyone can go to the website, enter their post code and able to obtain the .csv file which they can simply import into Google Maps layer very easily and generating a visual map of the places near them. We do not have the expertise to do so and would like to see a suitable and relevant member of the community to help us with this.
+The Eat Out To Help Out Scheme has now ended (31 Aug 2020)
 
 # EatOutToHelpOutUK
 This repo will help people in the UK visualize the Food and Beverage outlets near them participating in the scheme!
